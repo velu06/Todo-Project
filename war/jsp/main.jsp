@@ -17,6 +17,7 @@
 	padding: 0px;
 	font-size: 15px;
 	font-family: helvetica, arial, sans-serif;
+	height: 10px;
 }
 
 footer, section, header, aside, figure {
